@@ -1,0 +1,7 @@
+body { font-family: -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; line-height: 1.8; color: #1b1b1b; max-width: 720px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 24px; border-bottom: 3px solid #1b1b1b; padding-bottom: 8px; }
+h2 { font-size: 18px; margin-top: 32px; }
+p, li { font-size: 15px; }
+.note { background: #fff6d6; border: 2px solid #1b1b1b; padding: 8px 12px; font-size: 13px; }
+a { color: #0b57d0; }
+footer { margin-top: 48px; font-size: 13px; color: #555; }
